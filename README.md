@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ubashini
-- 👀 I’m interested in Frond-End Web Development
+- 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking for Full-time job
 - 📫 Reach me @ ubanidhauba@gmail.com
